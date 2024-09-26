@@ -1,7 +1,7 @@
 from langchain_openai import ChatOpenAI
 import streamlit as st
 
-st.title("Ask Anything")
+st.title("I am your chatGPT")
 
 with st.sidebar:
     st.title("Add Your API Key First")
